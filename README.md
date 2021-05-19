@@ -20,7 +20,7 @@
 -->
  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SamikshaSankar&show_icons=true&hide_border=true&hide=["stars"])
+<font color="black">![github stats](https://github-readme-stats.vercel.app/api?username=SamikshaSankar&show_icons=true&hide_border=true&hide=["stars"])</font>
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamikshaSankar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
