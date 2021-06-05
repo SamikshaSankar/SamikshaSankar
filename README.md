@@ -1,9 +1,8 @@
 ### Hi there 👋
  
-# I'm Samiksha 
+# I'm Samiksha :smiley:
 
-</br>
-<img align="right" alt="GIF" height="200px" width="350px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" />
+<img align="right" alt="GIF" height="250px" width="400px" src="https://media.giphy.com/media/L7Lm7JSWSRkW5Vvjjg/giphy.gif" />
 
 #### I'm a Third year CSE undergraduate pursuing B.Tech and a passionate programmer and developer who loves to code.
 - 🔭 I’m currently working on .. problem solving skills
@@ -12,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on .. Web Projects
 
-- 📫 How to reach me: samikshassankar@dbatu.ac.in
+- 📫 Looking forward .. Contribute in more Open source Projects
  
 - 😄 Pronouns: Sam
 
@@ -20,12 +19,34 @@
 -->
  
 
-<font color="black">![github stats](https://github-readme-stats.vercel.app/api?username=SamikshaSankar&show_icons=true&hide_border=true&hide=["stars"])</font>
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamikshaSankar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+[![Linkedin Badge](https://img.shields.io/badge/-samiksha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samikshasandipsankar/)](https://www.linkedin.com/in/samikshasandipsankar/)
+[![Twitter Badge](https://img.shields.io/badge/-@Samiksha_S_S-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Samiksha_S_S)](https://twitter.com/Samiksha_S_S)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:samikshasankar2000@gmail.com)](mailto:samikshasankar2000@gmail.com)
 
+
+<br><br>
+<div align="center" >  
+<a  href="https://github.com/SamikshaSankar"> 
+  
+<img alt="Samiksha's github stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=SamikshaSankar&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/SamikshaSankar" />
+<img alt="Top Langs" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamikshaSankar&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/SamikshaSankar" />
+</a>
+</div>
+<br>
 
 
 ## Languages and Tools
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  height="50px">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  height="50px">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  height="50px">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"  height="50px">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"  height="60px">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  height="50px">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  height="50px">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"  height="50px">
+<p align="center" >
+<code> <img height="50" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png"> </code>
+<code> <img height="50" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png"> </code>
+<code> <img height="50" src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png"> </code>
+<code> <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"> </code>
+<code> <img height="50" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"> </code>
+<code> <img height="50" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png"> </code>
+<code> <img height="50" src="https://img.icons8.com/color/452/nodejs.png"> </code>
+<code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"> </code>
+<code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg"> </code>
+<code> <img height="50" src="https://img.icons8.com/color/452/amazon-web-services.png"> </code>
+ <code> <img height="50" src="https://img.icons8.com/color/452/visual-studio.png"> </code>
+</p>
  
