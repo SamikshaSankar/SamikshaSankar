@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate on .. Web Projects
 
 - 📫 Looking forward .. Contribute in more Open source Projects
- 
-- 😄 Pronouns: Sam
 
 - ⚡ Fun fact: I am half Finished
 -->
