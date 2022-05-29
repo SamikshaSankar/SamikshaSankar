@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-# I'm Samiksha 
+# I'm Samiksha S Sankar
 
 <img align="right" alt="GIF" height="250px" width="400px" src="https://media.giphy.com/media/L7Lm7JSWSRkW5Vvjjg/giphy.gif" />
 
